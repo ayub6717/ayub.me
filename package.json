@@ -1,6 +1,7 @@
 {
   "name": "ayub.me",
   "private": true,
+  "homepage": "http://ayub6717.github.io/ayub.me",
   "description": "My personal portfolio website",
   "version": "2.0.1",
   "author": "Md. Ayub Shamim <ahmed1.ayub6717@gmail.com>",
@@ -43,8 +44,5 @@
   },
   "bugs": {
     "url": "https://github.com/ayub6717/ayub.me/issues"
-  },
-  "homepage": "http://gitname.github.io/ayub.me"
+  }
 }
-
-
